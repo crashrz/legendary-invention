@@ -1,0 +1,43 @@
+   <!DOCTYPE html>
+<!-- HTML5 Hello world by kirupa - http://www.kirupa.com/html5/getting_your_feet_wet_html5_pg1.htm -->
+<html lang="en-us">
+  
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">    
+    <link rel="stylesheet" type="text/css" href="helpU.css">
+  </head>
+  <body>    
+<?php include 'navbar.php'; ?>
+    
+    <?php include 'carousel.php'; ?>
+
+	
+	
+      </div>
+    </div>    
+    
+    <style>
+body, html {
+    height: 100%;
+}
+
+.carousel-caption {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    text-shadow: 0.5 0.5 black;
+}
+p, h1{
+    color:white;
+}
+
+
+
+    </style>
+
+  </body>
+</html>
+
